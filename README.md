@@ -1,4 +1,4 @@
-# HypothesisTest_Python
+# Hypothesis Tests with Python
 Examples of Hypothesis Tests using Python Options
 
 Explanantions of these files have been given on my Youtube Channel: (Please follow the sequence while watching)
